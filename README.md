@@ -1,5 +1,5 @@
 # Data-Visualization
-Using javascript to create visualizations
+Using javascript to create visualizations of different datasets
 
 To view and interact with these visualizations:
  1. Download a folder on to your laptop
